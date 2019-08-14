@@ -1,0 +1,6 @@
+i = 0
+_input = int(input('digite'))
+
+while i <= _input:
+    print(i)
+    i += 1
